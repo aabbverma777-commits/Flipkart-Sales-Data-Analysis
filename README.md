@@ -181,6 +181,9 @@ These filters allow users to dynamically explore the dashboard instead of lookin
 ---
 
 ## 💡 Key Business Insights
+<p align="center">
+  <img src="images/Insights.png" alt="Flipkart Sales Dashboard" width="100%">
+</p>
 
 ### 🔹 1. June is the strongest sales month
 The monthly sales trend shows a clear peak in **June**, making it an important period for understanding seasonal demand and promotional activity.
